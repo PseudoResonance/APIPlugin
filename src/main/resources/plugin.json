@@ -1,0 +1,5 @@
+{
+  "Main": "com.github.pseudoresonance.resonantbot.apiplugin.API",
+  "Name": "${project.name}",
+  "Version": "${revision}"
+}
